@@ -1,0 +1,11 @@
+Experiment number,Condition,Time needed (sec),Distance Travelled
+1,System Without HSI ,226.32,258474
+2,System Without HSI ,702.12,808510
+3,System Without HSI ,364.05,416555
+4,System Without HSI ,573.86,656378
+5,System Without HSI ,711.84,816902
+1,System with experienced user in HSI,152.93,156283
+2,System with experienced user in HSI,90.33,93007
+3,System with experienced user in HSI,85.81,88942
+4,System with experienced user in HSI,112.98,114570
+5,System with experienced user in HSI,75.33,76019

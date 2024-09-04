@@ -1,0 +1,30 @@
+Condition,User,Attempt,Objects pushed,Mouse clicks,Drawnline,dist followed,avoid line instances,no interaction distance
+System without HSI,1,1,1,0,0,0,0,129367
+System without HSI,2,1,1,0,0,0,0,137072
+System without HSI,3,1,3,0,0,0,0,140065
+System without HSI,4,1,2,0,0,0,0,139260
+System without HSI,5,1,2,0,0,0,0,139333
+Pilot Study,1,1,0,55,4938,46321,4574,155939
+Pilot Study,2,1,3,37,4352,71874,9,129452
+Pilot Study,3,1,4,70,1934,39481,995,161589
+Pilot Study,4,1,3,36,2497,34503,1730,168162
+Pilot Study,5,1,5,54,4737,53779,13,111774
+Pilot Study,6,1,2,17,1702,20917,3052,180794
+Training with incremental difficulty in successive attempts,1,2,1,20,2313,28222,2002,101287
+Training with incremental difficulty in successive attempts,1,1,4,22,2749,11075,1311,55617
+Training with incremental difficulty in successive attempts,2,1,0,29,2491,10703,1430,59001
+Training with incremental difficulty in successive attempts,2,2,5,32,2763,16776,4949,108892
+Training with incremental difficulty in successive attempts,3,1,2,52,3838,17725,142,48480
+Training with incremental difficulty in successive attempts,3,2,3,48,3998,31046,2461,89870
+Training with incremental difficulty in successive attempts,4,1,1,32,3761,18328,2183,46897
+Training with incremental difficulty in successive attempts,4,2,4,64,5449,42996,2699,75604
+Training with maximum difficulty in both attempts,1,1,1,42,3338,4866,2439,116985
+Training with maximum difficulty in both attempts,1,2,3,89,7805,8513,17429,123486
+Training with maximum difficulty in both attempts,2,1,1,16,1621,5362,492,127440
+Training with maximum difficulty in both attempts,2,2,3,18,945,29623,2372,106243
+Training with maximum difficulty in both attempts,3,1,4,36,3840,30026,6,102592
+Training with maximum difficulty in both attempts,3,2,1,40,3357,30987,10,95485
+Training with maximum difficulty in both attempts,4,1,3,68,3238,40830,14011,71462
+Training with maximum difficulty in both attempts,4,2,4,60,4116,25788,2961,94933
+Training with maximum difficulty in both attempts,5,1,3,23,1872,20279,25285,105272
+Training with maximum difficulty in both attempts,5,2,2,19,1723,5928,3919,121370
